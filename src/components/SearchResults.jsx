@@ -1,4 +1,4 @@
-function SearchResults(){
+function SearchResults({TrackListing}){
 
     return(
         <>

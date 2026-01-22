@@ -1,4 +1,4 @@
-function Playlist(){
+function Playlist({TrackListing}){
 
     return(
         <>
