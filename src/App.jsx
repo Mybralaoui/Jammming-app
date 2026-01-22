@@ -4,6 +4,8 @@ import './App.css'
 
 function App() {
 
+  const TrackListing  = ['song-name','artist','album'];
+
   return (
     <>
       <button>Save To Spotify </button>
